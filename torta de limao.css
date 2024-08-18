@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(231, 231, 164);
+    /*Mudar cor do fundo*/
+    width: 100%;
+    /*Mudar o tamanho da tela onde o texto/imagens irão aparecer*/
+    height: auto;
+    /*Mudar a altura da página*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*Serve para mudar a fonte do texto*/
+}                                         
+h4{
+    color: rgb(100, 26, 26);
+    /*Para colorir o texto*/
+}
+h1{
+    margin-bottom: 2%;
+    /*para arrumar a margem do botão no texto*/
+}
+ul{
+    text-align: justify;
+    /*Para alinhar o texto*/
+    border:  1px solid rgb(75, 75, 75);
+    /*Para mudar a cor da borda */
+    /* alinhando */
+    align-items: center;
+    justify-content: center;
+    /*para alinhar o texto*/
+    margin: auto;
+    width: 15%;
+    /*para mudar a bord do botão*/
+}
